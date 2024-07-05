@@ -1,4 +1,5 @@
-# Pokémon Quiz Game
+# PokeQuiz
+![image](https://github.com/sanjanalad99/PokeQuiz/assets/133920285/cdce9e1f-f396-4396-8f27-35ccfae01a89)
 
 ## Description
 
